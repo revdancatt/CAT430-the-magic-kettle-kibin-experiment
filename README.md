@@ -1,3 +1,5 @@
+![Screen Shot](http://cattopus23.com/img/panel-CAT430.jpg)
+
 The Magic Kettle Experiment
 ===========================
 
