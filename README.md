@@ -1,7 +1,7 @@
 ![Screen Shot](http://cattopus23.com/img/panel-CAT430.jpg)
 
-The Magic Kettle Experiment
-===========================
+CAT430 The Magic Kettle Experiment
+==================================
 
 This is an experiment with Chinese Whispers. I want to see what happens if I take an old story, in this case The Magic Kettle from Andrew Lang's Crimson Fairy Book (http://www.mythfolklore.net/andrewlang/222.htm) and ask for it to be proofread and edited by the people over at Kibin.com (http://kibin.com).
 
